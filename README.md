@@ -5,11 +5,11 @@ A simple BMI Calculator built using React.js and Tailwind CSS. It allows users t
 
 ## 🚀 Features:
 
-✅ Responsive UI with Tailwind CSS
-✅ Real-time BMI Calculation
-✅ Error Handling for Invalid Inputs
+✅ Responsive UI with Tailwind CSS <br>
+✅ Real-time BMI Calculation <br>
+✅ Error Handling for Invalid Inputs <br>
 ✅ Categorizes BMI into Underweight, Normal, Overweight, and Obesity
 
 
-🔗 Live Demo: https://bmi-calculator-steel-three.vercel.app/
+🔗 Live Demo: https://bmi-calculator-steel-three.vercel.app/ <br>
 📂 Tech Stack: React.js, Tailwind CSS
